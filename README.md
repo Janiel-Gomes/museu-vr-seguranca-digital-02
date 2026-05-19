@@ -8,7 +8,7 @@
 
 ## 👤 Autor
 
-**Nome:** [Insira seu nome completo aqui]  
+**Nome:** Francisco Janiel Gomes Rodrigues
 **Turma:** Web 3.0 — Residência em TIC 29  
 **Professora:** Ana Beatriz
 
